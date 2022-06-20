@@ -1,0 +1,5 @@
+#ignore all csv files
+*.csv
+
+#ignore doc file
+Dataline Analytics Challenge Rubric.docx
